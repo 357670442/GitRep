@@ -1,4 +1,4 @@
 ﻿Git is a version control system.
 Git is free software.
 Git is third .
-dev brach
+Creating anew branch is quick and simple.
